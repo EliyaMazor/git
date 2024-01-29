@@ -4,6 +4,7 @@
 
 body{
     background-color: black;
+    text-align: center;
 }
 
 h1{
@@ -18,5 +19,7 @@ div{
     margin: auto;
 
     background-color: red;
-    text-align: center;
+
+    font-size: 22px;
+    font-weight: bold;
 }
