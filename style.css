@@ -11,7 +11,7 @@ h1{
     color: white;
 }
 
-div{
+.ball{
     height: 100px;
     width: 100px;
     border-radius: 50%;
@@ -19,8 +19,14 @@ div{
     margin: auto;
     transition: 1s;
 
-    background-color: red;
-
     font-size: 22px;
     font-weight: bold;
+}
+
+.ball1{
+    background-color: red;
+}
+
+.ball2{
+    background-color: yellowgreen;
 }
