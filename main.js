@@ -3,7 +3,7 @@
 var gBallSize = 100
 
 function onBallClick(elBall) {
-  gBallSize += 50
+  gBallSize += getRandomInt(20, 60)
   
   if(gBallSize > 400) gBallSize = 100
 
